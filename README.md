@@ -1,3 +1,4 @@
+![GitHub Logo](/github banner.png)
 ### Hi there 👋
 
 <!--
