@@ -1,4 +1,4 @@
-![GitHub Logo](/github banner.png)
+![Colin-Stark](/github banner.png)
 ### Hi there 👋
 
 <!--
