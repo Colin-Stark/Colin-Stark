@@ -34,6 +34,28 @@ Here are some ideas to get you started:
 - [x] CORE PHP
 - [X] MYSQL
 - [X] BOOTSTRAP
+- [X] MATERIALIZE
 - [x] HTML
 - [X] CSS
 - [X] JQUERY
+- [X] AJAX
+- [X] FLUTTER
+- [] DART
+
+## IDE
+
+1. Visual Studio
+2. Atom
+3. Notepad++
+4. Sublime Text
+
+## WEB DEV OPS FULL STACK
+
+FRONT-END | BACK-END
+--------- | ---------
+HTML | PHP
+CSS | MYQSLI
+BOOTSTRAP | AJAX
+JAVASCRIPT | 
+FULLCALENDAR |
+
