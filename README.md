@@ -25,6 +25,15 @@ Here are some ideas to get you started:
 :round_pushpin: : Nigeria
 
 
-### I Love Pair Programming Looking As You Can Tell So If You Have Any Project You Need A Contributor I'm Your Guy, i do fullstack development and mobile app design fopr now but learning to be a mobile developer 
+### I Love Pair Programming Looking As You Can Tell So If You Have Any Project You Need A Contributor I'm Your Guy, i do fullstack development and mobile app design fopr now but learning to be a mobile developer.
+
+### About to create a responsive framework for web development but it is still in the works
+
+## PROGRAMMING LANGUAGES
 
 - [x] CORE PHP
+- [X] MYSQL
+- [X] BOOTSTRAP
+- [x] HTML
+- [X] CSS
+- [X] JQUERY
