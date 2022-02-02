@@ -1,4 +1,3 @@
-![Colin-Stark](https://github.com/Colin-Stark/Colin-Stark/blob/master/github%20banner.png)
 ### Hi there 👋
 
 <!--
