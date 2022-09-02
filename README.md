@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Colin</h1>
 <h3 align="center">I'm just a guy who really really really really loves coding with flutter and HarperDB</h3>
 
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=Colin-Stark&show_icons=true)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Colin-Stark&theme=blue-green)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=colin-stark&label=Profile%20views&color=0e75b6&style=flat" alt="colin-stark" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=colin-stark" alt="colin-stark" /></a> </p>
