@@ -1,31 +1,34 @@
-<h1 align="center">Hi 👋, I'm Colin<br>I'm just a guy who really really really really loves coding with flutter and HarperDB<br>
-<p align="center">
-<a href="mailto:collinscodes@gmail.com?"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="arduino" width="50" height="50"/></a> <a href="https://hashnode.com/@unorthodox-developer"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="arduino" width="50" height="50"/></a> <a href="https://twitter.com/@freaking_colin" target="blank"><img align="center" src="https://aux2.iconspalace.com/uploads/twitter-icon-256-2130177043.png" alt="@freaking_colin" height="50" width="50"/></a> <a href="https://www.linkedin.com/in/collins-olokpedje-739955136/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png" alt="collins olokpedje" height="50" width="50" /></a>
-</p>
-</h1>
+# Hi, there👋
+<br>My name is Collins Olokpedje, and I'm a freelance software developer based in Nigeria. I'm passionate about building high-quality, user-friendly software that solves real-world problems. I'm currently open to job opportunities from anywhere in the world, and I'd love to bring my skills and experience to your team!<br><br>
+# What I do
+<br>As a software developer, my main stack is Flutter and Dart. I'm highly skilled in using these tools to build mobile and web applications, and I'm experienced in communicating with APIs to perform CRUD operations. I'm also proficient in replicating UI/UX designs using Flutter and Dart. If you're looking for a developer who can bring your designs to life and create an exceptional user experience, look no further!<br><br>
+# What I've achieved
+<br>One of my proudest achievements is serving as an ambassador for HarperDB, a cloud database company. As an ambassador, I've helped to promote the company's products and services and have shared my knowledge and experience with other developers. I've also developed numerous software projects that showcase my skills and expertise, which you can explore in my projects repository.<br><br>
 
-[CLICK HERE VIEW MY PORTFOLIO](https://github.com/Colin-Stark/PORTFOLIO.git)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=colin-stark&label=Profile%20views&color=0e75b6&style=flat" alt="colin-stark" /> </p><br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=colin-stark" alt="colin-stark" /></a> </p>
-
-
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=Colin-Stark&show_icons=true)
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=colin-stark&show_icons=true&locale=en&layout=compact" alt="colin-stark" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=colin-stark&" alt="colin-stark" /></p>
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Colin-Stark&theme=blue-green) 
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
+# How I can help you
+<br>If you're looking for a skilled and dedicated software developer to join your team, look no further! I'm passionate about what I do, and I'm committed to delivering high-quality work that exceeds your expectations. Whether you need a mobile app, a web application, or a custom software solution, I have the skills and experience to bring your ideas to life.<br><br><br>
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/collins-olokpedje-739955136) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Freaking_Colin) 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=colin-stark&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=colin-stark&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=colin-stark&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=Freaking_Colin)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=colin-stark&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=colin-stark&icon=0&color=11)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
