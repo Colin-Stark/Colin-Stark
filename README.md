@@ -1,6 +1,7 @@
 # 🌐 Socials [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/collins-olokpedje-739955136) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Freaking_Colin) 
 
 # Hi, there👋 
+<img src="https://media.giphy.com/media/E89xxATM4iZoPdr6Tb/giphy.gif" align="right" />
 
 <br>My name is Collins Olokpedje, and I'm a freelance software developer based in Nigeria. I'm passionate about building high-quality, user-friendly software that solves real-world problems. I'm currently open to job opportunities from anywhere in the world, and I'd love to bring my skills and experience to your team!<br><br>
 # What I do
