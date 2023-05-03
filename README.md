@@ -1,6 +1,7 @@
-# 🌐 Socials [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/collins-olokpedje-739955136) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Freaking_Colin) 
 
-# Hi, there👋 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+Profile;My+name+is+COLLINS+OLOKPEDJE;I'm+a+Sofware+Engineer😃;My+main+stack+is+flutter+and+dart;I+have+experience+creating+Website;Android+and+Desktop+App+with+flutter;)](https://git.io/typing-svg)
+
+# INTRODUCTION 👋 [![](https://visitcount.itsvg.in/api?id=colin-stark&icon=0&color=11)](https://visitcount.itsvg.in)
 <img src="https://media.giphy.com/media/E89xxATM4iZoPdr6Tb/giphy.gif" align="right" />
 
 <br>My name is Collins Olokpedje, and I'm a freelance software developer based in Nigeria. I'm passionate about building high-quality, user-friendly software that solves real-world problems. I'm currently open to job opportunities from anywhere in the world, and I'd love to bring my skills and experience to your team!<br><br>
@@ -11,6 +12,8 @@
 
 # How I can help you
 <br>If you're looking for a skilled and dedicated software developer to join your team, look no further! I'm passionate about what I do, and I'm committed to delivering high-quality work that exceeds your expectations. Whether you need a mobile app, a web application, or a custom software solution, I have the skills and experience to bring your ideas to life.<br><br><br>
+
+# 🌐 Socials [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/collins-olokpedje-739955136) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Freaking_Colin) 
 
 
 
@@ -31,7 +34,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=colin-stark&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=colin-stark&icon=0&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
