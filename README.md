@@ -4,7 +4,7 @@
 # INTRODUCTION 👋 [![](https://visitcount.itsvg.in/api?id=colin-stark&icon=0&color=11)](https://visitcount.itsvg.in)
 <img src="https://media.giphy.com/media/E89xxATM4iZoPdr6Tb/giphy.gif" align="right" />
 
-<br>My name is Collins Olokpedje, and I'm a freelance software developer based in Nigeria. I'm passionate about building high-quality, user-friendly software that solves real-world problems. I'm currently open to job opportunities from anywhere in the world, and I'd love to bring my skills and experience to your team!<br><br>
+<br>My name is Collins Olokpedje, and I'm a freelance software developer based in Toronto, Canada. I'm passionate about building high-quality, user-friendly software that solves real-world problems. I'm currently open to job opportunities from anywhere in the world, and I'd love to bring my skills and experience to your team!<br><br>
 # What I do
 <br>As a software developer, my main stack is Flutter and Dart. I'm highly skilled in using these tools to build mobile and web applications, and I'm experienced in communicating with APIs to perform CRUD operations. I'm also proficient in replicating UI/UX designs using Flutter and Dart. If you're looking for a developer who can bring your designs to life and create an exceptional user experience, look no further!<br><br>
 # What I've achieved
